@@ -101,6 +101,26 @@ body {
   background-repeat: no-repeat;
   background-position: right;
 }
+/*-------------Neptune----------------- */
+
+/* .neptune-by {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+} */
+.neptune-by img {
+  height: 700px;
+}
+.neptune-by {
+  margin-top: 100px;
+  padding-left: 25px;
+  padding-right: 85px;
+}
+
+.neptune-h {
+  font-size: 36px;
+  line-height: 44px;
+}
 /*-------------footer------------------ */
 .footer-f {
   text-align: center;
@@ -128,4 +148,5 @@ body {
 .foot-p {
   color: #d9dbe1;
   padding-bottom: 77px;
+  margin: 0;
 }
