@@ -24,7 +24,7 @@ body {
   color: #3e3e3e;
 }
 
-.top-banner {
+.flexible-container {
   display: flex;
   align-items: center;
   margin-bottom: 150px;
@@ -78,4 +78,19 @@ body {
   border-radius: 15px;
   padding-top: 5%;
   border-image-width: 2%;
+}
+/*-------------develop ------------------ */
+.develop-limits {
+  background-image: url(images/shapes/shape-4.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.develop-limits {
+  padding-left: 20px;
+  padding-right: 85px;
+}
+
+.develop-h {
+  font-size: 36px;
+  line-height: 44px;
 }
