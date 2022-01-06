@@ -94,3 +94,38 @@ body {
   font-size: 36px;
   line-height: 44px;
 }
+/*-------------know------------------ */
+
+.global-community {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+/*-------------footer------------------ */
+.footer-f {
+  text-align: center;
+  background-color: #0b0d17;
+}
+
+.foot-f {
+  font-family: "Lobster", cursive;
+  font-family: "Lobster Two", cursive;
+  font-family: "Poppins", sans-serif;
+  font-family: "Yeseva One", cursive;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 36px;
+  font-style: italic;
+  /* line-height: 24px; */
+  width: 1440px;
+  height: 50px;
+  padding-top: 57px;
+  padding-left: 47px;
+}
+.foot-s {
+  color: #ff5959;
+}
+.foot-p {
+  color: #d9dbe1;
+  padding-bottom: 77px;
+}
